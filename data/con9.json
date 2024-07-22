@@ -1,0 +1,17 @@
+{
+	"id":9,
+	"name":"Animé Los Angeles 2024",
+	"location":"Long Beach Convention & Entertainment Center",
+	"date": "January 4-7, 2024",
+	"type": "Anime Convention",
+	"description": "Animé Los Angeles, established in 2005, is a medium-sized, community-focused animé convention with a more moderate-paced environment where you can meet up with old friends and make new ones, while also offering an abundance of diverse programming to keep our members busy and entertained. We are run with our fans in mind with the hopes to bring people closer together while celebrating a common love of Anime, Cosplay, and Fandom.",
+	    "filename":"./image/ala.jpg",
+		"orginfo":{
+			"name": "Anime Los Angeles",
+			"other": ["Anime Los Angeles 2006-2023"]
+		},
+		"center": [33.764586, -118.190247],
+		"zoom": 15
+		
+	
+}

@@ -1,0 +1,17 @@
+{
+	"id":8,
+	"name":"MinamiCon",
+	"location":"Novotel Southampton Southampton",
+	"date": "March 8-10, 2024",
+	"type": "Anime Convention",
+	"description": "Get ready for MegaCon Live, Kidtropolis & TokFEST The ultimate Popular Culture Show with Guests, Games, Anime, Manga, Movies, Steampunk, Yu-Gi-Oh, Stormtroopers, Cosplay and so much more. We have teamed up with Kidtropolis and TokFEST to bring visitors the Kidtropolis Zone and TokFEST Zone. MegaCon Live will combine so many aspects of modern popular culture.",
+		"filename":"./image/minamicon.jpg",
+		"orginfo":{
+			"name": "Non-profit organisation",
+			"other": ["Minami Con 1995-2023"]
+		},
+		"center": [50.905640, -1.415423],
+		"zoom": 15
+		
+	
+}

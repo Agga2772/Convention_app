@@ -1,0 +1,61 @@
+/* Global styles */
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px; 
+}
+
+/* Map page styles */
+#map {
+    width: 100%;
+    height: 500px; 
+}
+
+#conventionList {
+    width: 100%;
+    padding: 60px;
+    box-sizing: border-box;
+}
+
+#conventionList h2 {
+    color: #0818f7;
+}
+
+#list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow-y: auto;
+    max-height: 500px; 
+}
+
+#list li {
+    cursor: pointer;
+    margin-bottom: 5px;
+    background-color: #0400f586;
+    padding: 10px;
+    color: #030303;
+    border-radius: 5px;
+}
+
+/* Save page styles */
+#saveList {
+    list-style-type: none;
+}
+
+#saveList li {
+    margin-bottom: 10px;
+    color: #020202;
+}
+
+/* Convention details page styles */
+#name {
+    font-size: 30px; 
+}
+#saveButton {
+    padding: 15px 20px; 
+    color: #000000;
+}
+.infopage{
+    margin-bottom: 10px;
+    font-size: 25px;
+}
