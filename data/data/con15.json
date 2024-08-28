@@ -1,0 +1,17 @@
+{
+	"id":15,
+	"name":"Japan Meeting of Furries 2024",
+	"location":"Loisir Hotel Toyohashi",
+	"date": "March 8-10, 2024",
+	"type": "Furry Convention",
+	"description": "The JMoF Executive Committee is an organization operating a convention and media related to anthropomorphic animals -- kemono (furry).If the JMoF convention could be regarded as a way to start looking forward to the future, we would be happy. We hope to create a world where what lies ahead is a bright road that we can proudly walk as members of the kemono community.",
+		"filename":"./image/jpfurry.jpg",
+		"orginfo":{
+			"name": "JMoF Executive Committee",
+			"other": ["Japan Meeting of Furries 2013-2023"]
+		},
+		"center": [34.743506, 137.370303],
+		"zoom": 15
+		
+	
+}

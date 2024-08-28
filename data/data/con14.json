@@ -1,0 +1,17 @@
+{
+	"id":14,
+	"name":"Fan Expo New Orleans 2024",
+	"location":"New Orleans Ernest N. Morial Center",
+	"date": "January 5-7, 2024",
+	"type": "Comic Convention",
+	"description": "FAN EXPO New Orleans is the ultimate go-to event for sci-fi, horror, anime, and gaming event in New Orleans that attracts thousands of people to the Ernest N. Morial Convention Center. Everyone is a fan of something, and FAN EXPO New Orleans is a place to celebrate all things pop culture. Get an autograph or a photo with your favorite guest then get the inside scoop about your favorite movies and TV shows at our celebrity panels! Watch professional comic artists battle it out in our popular Sketch Duels, learn from our how to workshops, and take photos with your favorite costumed characters! It's also a great place to buy a unique gift (or treat yourself!) with a huge show floor for shopping madness.",
+		"filename":"./image/fanexpo.jpg",
+		"orginfo":{
+			"name": "Informa Connect",
+			"other": ["Fan Expo New Orleans 2020-2023","Wizard World Comic Con New Orleans 2012-2019"]
+		},
+		"center": [29.942326, -90.063493],
+		"zoom": 15
+		
+	
+}

@@ -1,0 +1,17 @@
+{
+	"id":17,
+	"name":"North Dallas Toy Show 2024",
+	"location":"Celebration Event Center and Ballroom",
+	"date": "January 6, 2024",
+	"type": "Anime Convention",
+	"description": "This is the largest toy show in the Dallas-Fort Worth area. Over 120 vendor tables every month featuring comic books, action figures, Hot Wheels, Pokemon cards, Star Wars collectibles, vintage toys, and much more!",
+		"filename":"./image/dallastoy.jpg",
+		"orginfo":{
+			"name": "N/A",
+			"other": ["North Dallas Toy Show 2021-2023"]
+		},
+		"center": [33.027975, -96.735116],
+		"zoom": 15
+		
+	
+}

@@ -1,0 +1,17 @@
+{
+	"id":12, 
+	"name":"Animate! Raleigh 2024",
+	"location":"Raleigh Convention Center",
+	"date": "January 5-7, 2024",
+	"type": "Anime Convention",
+	"description": "It's an ANIMATION CELEBRATION at GalaxyCon Presents ANIMATE! RALEIGH. Join us for 3 days of anime, animation, cosplay, and more! We feature entertainment, Q&As, video and tabletop gaming, panels, costume contests, cosplay wrestling, and so much more fandom for you to explore.",
+		"filename":"./image/animate.jpg",
+		"orginfo":{
+			"name": "GalaxyCon",
+			"other": ["N/A"]
+		},
+		"center": [35.773736, -78.641413],
+		"zoom": 15
+		
+	
+}

@@ -1,0 +1,83 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #dd82f098;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Home page styles */
+.home-container {
+  text-align: center;
+  padding: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #6077f559;
+}
+
+/* Map page styles */
+#map {
+  width: 100%;
+  height: 400px;
+  
+}
+
+#conventionList {
+  width: 100%;
+  padding: 90px;
+  box-sizing: border-box;
+  background-color: #6077f559;
+}
+
+#conventionList h2 {
+  color: #190053d2;
+  font-size: 18px;
+}
+
+#conventionList #list {
+  list-style-type: none;
+  overflow-y: auto;
+  max-height: 300px;
+}
+
+#conventionList #list li {
+  cursor: pointer;
+  margin-bottom: 5px;
+  background-color: #1ab0c4;
+  padding: 10px;
+  color: #ffffff59;
+  border-radius: 5px;
+}
+
+#conventionList #list li:hover {
+  background-color: #021688;
+}
+/* Save page styles */
+#saveList {
+  list-style-type: none;
+  padding: 2px;
+  margin: 60px;
+  background-color: #6077f559;
+}
+
+#saveList li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #000000;
+}
+/* Convention details page styles */
+#name {
+  font-size: 24px;
+}
+
+#image{
+  padding-top: 100px;
+}
+
+.infopage{
+background-color:#6077f559;
+}
+#zoom,#center{
+  color:#6076f500;
+}

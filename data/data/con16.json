@@ -1,0 +1,17 @@
+{
+	"id":16,
+	"name":"SacAnime Winter 2024",
+	"location":"SAFE Credit Union Convention Center",
+	"date": "January 5-7, 2024",
+	"type": "Anime Convention",
+	"description": "SacAnime is the show where Fans Come to Play. Our philosophy has always been to provide fun, safe, family friendly environment, with top shelf entertainment at a reasonable price.",
+		"filename":"./image/sac.jpg",
+		"orginfo":{
+			"name": "Sac Conventions",
+			"other": ["SacAnime 2004-2023"]
+		},
+		"center": [38.578407, -121.488332],
+		"zoom": 15
+		
+	
+}

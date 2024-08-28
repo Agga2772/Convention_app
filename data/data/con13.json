@@ -1,0 +1,17 @@
+{
+	"id":13, 
+	"name":"Anime-Zap! 2024",
+	"location":"Embassy Suites by Hilton East Peoria Riverfront Hotel & Conference Center",
+	"date": "January 5-7, 2024",
+	"type": "Anime Convention",
+	"description": "Anime-ZAP! is a three-day anime convention celebration.",
+		"filename":"./image/animezap.jpg",
+		"orginfo":{
+			"name": "AnimeCon.org",
+			"other": ["Anime-Zap! 2010-2023"]
+		},
+		"center": [40.683490, -89.590503],
+		"zoom": 15
+		
+	
+}

@@ -1,0 +1,128 @@
+[
+	{
+		"id":1,
+		"name":"MegaCon Live Dublin",
+		"org":"Malo Events",
+		"image":"./image/megacon.jpg",
+		"center": [53.327783, -6.229372]
+	},
+	{
+		"id":2,
+		"name":"St. Helens Sci-Fi Comic & Toy Fair",
+		"org":"N/A",
+		"image":"./image/St.Helens.jpg",
+		"center": [53.449972, -2.736894]
+	},	
+	{
+		"id":3,
+		"name":"AnimeCon London",
+		"org":"The J-POP Foundation",
+		"image":"./image/ANimecon.jpg",
+		"center": [51.608152, -0.047089]
+	},
+	{
+		"id":4,
+		"name":"Liverpool Anime & Gaming Con",
+		"org":"Animeleague",
+		"image":"./image/liverpool.jpg",
+		"center": [53.473476, -2.954082]
+	},
+	{
+		"id":5,
+		"name":"Bristol Anime & Gaming Con",
+		"org":"Animeleague",
+		"image":"./image/bristol.jpg",
+		"center": [51.455381, -2.593356]
+	},
+	{
+		"id":6,
+		"name":"Birmingham Anime & Gaming Con",
+		"org":"Animeleague",
+		"image":"./image/birmingham.jpg",
+		"center": [52.455550, -1.903913]
+	},
+	{
+		"id":7,
+		"name":"London Anime & Gaming Con",
+		"org":"Animeleague",
+		"image":"./image/london.jpg",
+		"center": [51.492168, -0.220073]
+	},
+	{
+		"id":8,
+		"name":"MinamiCon",
+		"org":"Non-profit organisation",
+		"image":"./image/minamicon.jpg",
+		"center": [50.905640, -1.415423]
+	},
+	{
+		"id":9,
+		"name":"Animé Los Angeles 2024",
+		"org":"Anime Los Angeles",
+		"image":"./image/ala.jpg",
+		"center": [33.764586, -118.190247]
+	},
+	{
+		"id":10,
+		"name":"Anthro Northwest 2024",
+		"org":"Volunteers",
+		"image":"./image/anthro.jpg",
+		"center": [47.614529, -122.334264]
+	},
+	{
+		"id":11,
+		"name":"Ichibancon 2024",
+		"org":"NostalgiaConventions.com",
+		"image":"./image/ich.jpg",
+		"center": [35.365221, -80.700610]
+	},
+	{
+		"id":12,
+		"name":"Animate! Raleigh 2024",
+		"org":"GalaxyCon",
+		"image":"./image/animate.jpg",
+		"center": [35.773736, -78.641413]
+	},
+	{
+		"id":13,
+		"name":"Anime-Zap! 2024",
+		"org":"AnimeCon.org",
+		"image":"./image/animezap.jpg",
+		"center": [40.683490, -89.590503]
+	},
+	{
+		"id":14,
+		"name":"Fan Expo New Orleans 2024",
+		"org":"Informa Connect",
+		"image":"./image/fanexpo.jpg",
+		"center": [29.942326, -90.063493]
+	},
+	{
+		"id":15,
+		"name":"Japan Meeting of Furries 2024",
+		"org":"JMoF Executive Committee",
+		"image":"./image/jpfurry.jpg",
+		"center": [34.743506, 137.370303]
+	},
+	{
+		"id":16,
+		"name":"SacAnime Winter 2024",
+		"org":"Sac Conventions",
+		"image":"./image/sac.jpg",
+		"center": [38.578407, -121.488332]
+	},
+	{
+		"id":17,
+		"name":"North Dallas Toy Show 2024",
+		"org":"N/A",
+		"image":"./image/dallastoy.jpg",
+		"center": [33.027975, -96.735116]
+	},
+	{
+		"id":18,
+		"name":"St. Pete Comic Con 2024",
+		"org":"Florida Comic Cons",
+		"image":"./image/pete.jpg",
+		"center": [27.776816, -82.641161]
+	}
+]

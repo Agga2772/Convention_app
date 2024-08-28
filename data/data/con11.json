@@ -1,0 +1,17 @@
+{
+	"id":11,
+	"name":"Ichibancon 2024",
+	"location":"Embassy Suites Concord",
+	"date": "January 4-7, 2024",
+	"type": "Anime Convention",
+	"description": "Ichibancon is a four-day event that features a variety of entertainment in a diverse, multi-function, crowd-friendly environment. One ticket price gives you access to all Concerts, Live Acts, and Performers to industry and media guests, DJs, artists, and vendors.",
+		"filename":"./image/ich.jpg",
+		"orginfo":{
+			"name": "NostalgiaConventions.com",
+			"other": ["Ichibancon 2010-2023"]
+		},
+		"center": [35.365221, -80.700610],
+		"zoom": 15
+		
+	
+}

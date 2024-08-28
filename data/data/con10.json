@@ -1,0 +1,17 @@
+{
+	"id":10,
+	"name":"Anthro Northwest 2024",
+	"location":"Hyatt Regency Seattle",
+	"date": "January 4-7, 2024",
+	"type": "Furry Convention",
+	"description": "Anthro Northwest is Washington's largest furry convention featuring hundreds of panels and activities, a feast and a large vending hall. The convention is centrally located in Downtown Seattle with many restaurants and attractions nearby. Anthro Northwest is an all ages inclusive event and has a very relaxed feel with activities and events for everyone.",
+		"filename":"./image/anthro.jpg",
+		"orginfo":{
+			"name": "Volunteers",
+			"other": ["Anthro Northwest 2017-2023"]
+		},
+		"center": [47.614529, -122.334264],
+		"zoom": 15
+		
+	
+}

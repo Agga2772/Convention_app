@@ -1,0 +1,17 @@
+{
+	"id":18,
+	"name":"St. Pete Comic Con 2024",
+	"location":"The Coliseum",
+	"date": "January 6-7, 2024",
+	"type": "Comic Convention",
+	"description": "St. Pete Comic Con is a two-day convention that features comics, anime, sci-fi & fantasy - and all things geek.The nerd event - which includes comic artists, anime voice actors, and a roster of Florida's top cosplayers - is the first weekend in January at the Coliseum in historic downtown St. Petersburg.",
+		"filename":"./image/pete.jpg",
+		"orginfo":{
+			"name": "Florida Comic Cons",
+			"other": ["St. Pete Comic Con 2022-2023"]
+		},
+		"center": [27.776816, -82.641161],
+		"zoom": 15
+		
+	
+}
